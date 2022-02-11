@@ -1,10 +1,5 @@
-- Bilibili@XiaoYiChina
-- The maker for Minecraft 
-- Mods,packs,and MinecraftLauncher！
-- This is git for U Minecraft Launcher (UML)
-- Please
-
-<!---
-IKEAsubway/IKEAsubway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hello!
+- This is a git of the game <Minecraft>`s mods Pack
+- I have a sponsor from DouDouBao , thanks for help
+- Em , English is not my first language , so I cannot write in En more
+- I will write in Chinese in last projects!

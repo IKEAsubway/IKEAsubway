@@ -1,5 +1,4 @@
 - Hello!
 - This is a git of the game <Minecraft>`s mods Pack
 - I have a sponsor from DouDouBao , thanks for help
-- Em , English is not my first language , so I cannot write in En more
 - I will write in Chinese in last projects!
